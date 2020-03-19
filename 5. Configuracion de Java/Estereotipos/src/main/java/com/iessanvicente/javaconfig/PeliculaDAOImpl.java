@@ -1,8 +1,10 @@
-package com.iessanvicente.annotations;
+package com.iessanvicente.javaconfig;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
+
+import javax.annotation.PostConstruct;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
