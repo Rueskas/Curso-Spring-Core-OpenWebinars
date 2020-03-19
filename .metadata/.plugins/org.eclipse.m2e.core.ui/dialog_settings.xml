@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Ruesk\Documents\2 DAM\FTC\Curso Spring Core\PrimerEjemplo\src\main\resources\beans.xml"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,9 +48,11 @@
 			<item value="com.iessanvicente"/>
 		</list>
 		<list key="name">
+			<item value="MiPrimerBean"/>
 			<item value="PrimerEjemplo"/>
 		</list>
 		<list key="artifactId">
+			<item value="MiPrimerBean"/>
 			<item value="PrimerEjemplo"/>
 		</list>
 		<list key="projectNameTemplate">
