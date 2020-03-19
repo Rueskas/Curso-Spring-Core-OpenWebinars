@@ -48,10 +48,12 @@
 			<item value="com.iessanvicente"/>
 		</list>
 		<list key="name">
+			<item value="MovieAdvisor"/>
 			<item value="MiPrimerBean"/>
 			<item value="PrimerEjemplo"/>
 		</list>
 		<list key="artifactId">
+			<item value="MovieAdvisor"/>
 			<item value="MiPrimerBean"/>
 			<item value="PrimerEjemplo"/>
 		</list>
