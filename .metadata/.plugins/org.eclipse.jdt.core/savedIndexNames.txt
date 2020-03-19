@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Ruesk\Documents\2 DAM\FTC\Curso Spring Core\.metadata\.plugins\org.eclipse.jdt.core
+2378821413.index
